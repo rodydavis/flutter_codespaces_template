@@ -1,11 +1,19 @@
 # flutter_codespaces_template
 
-A new Flutter project.
+Flutter project that works with Gihub Codespaces. 
+
+![](doc/preview.png)
 
 ## Getting Started
 
+Open this project in Github Codespaces
+
 ```
-flutter run -d web-server
+flutter run --release -d web-server --web-hostname=0.0.0.0 --web-port=3000
 ```
 
-https://chrome.google.com/webstore/detail/dart-debug-extension/eljbmlghnomdjgdjmbdekegdkbabckhm/related?hl=en
+Open url in new tab. You can open the codespace settings and see the port forwarded on the left side of VSCode under the debug icon and is call "remote explorer".
+
+Start coding and enjoy!
+
+More info [here](https://verygood.ventures/blog/github-codespaces-and-run-flutter).

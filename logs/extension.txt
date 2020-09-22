@@ -1,0 +1,159 @@
+!! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.14.1
+Flutter extension: 3.14.1 (not activated)
+
+App: Visual Studio Code - Insiders
+Remote: vsonline
+Version: 1.50.0-insider
+Platform: linux
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+
+Tue Sep 22 2020 [20:12:55 GMT+0000 (GMT)] Log file started
+[8:12:55 PM] [General] [Info] Searching for SDKs...
+[8:12:55 PM] [General] [Info] Environment PATH:
+[8:12:55 PM] [General] [Info]     /root/.vscode-remote/bin/d1f267742169584db010716d92addf50d4cd8139/bin
+[8:12:55 PM] [General] [Info]     /root/.vscode-remote/bin/d1f267742169584db010716d92addf50d4cd8139/bin
+[8:12:55 PM] [General] [Info]     /usr/local/sbin
+[8:12:55 PM] [General] [Info]     /usr/local/bin
+[8:12:55 PM] [General] [Info]     /usr/sbin
+[8:12:55 PM] [General] [Info]     /usr/bin
+[8:12:55 PM] [General] [Info]     /sbin
+[8:12:55 PM] [General] [Info]     /bin
+[8:12:55 PM] [General] [Info]     /opt/android-sdk-linux/cmdline-tools/tools/bin
+[8:12:55 PM] [General] [Info]     /opt/android-sdk-linux/platform-tools
+[8:12:55 PM] [General] [Info]     /opt/android-sdk-linux/emulator
+[8:12:55 PM] [General] [Info]     /sdks/flutter/bin
+[8:12:55 PM] [General] [Info]     /sdks/flutter/bin/cache/dart-sdk/bin
+[8:12:55 PM] [General] [Info]     /usr/local/share/pub-cache/bin
+[8:12:55 PM] [General] [Info] Found Flutter project at /root/workspace/flutter_codespaces_template:
+			Mobile? true
+			Web? false
+			Create Trigger? false
+			Flutter Repo? false
+[8:12:55 PM] [General] [Info] Searching for flutter
+[8:12:55 PM] [General] [Info]     Looking for flutter in:
+[8:12:55 PM] [General] [Info]         /root/workspace/flutter_codespaces_template
+[8:12:55 PM] [General] [Info]         /root/workspace/flutter_codespaces_template/bin
+[8:12:55 PM] [General] [Info]         /sdks/flutter/bin/
+[8:12:55 PM] [General] [Info]         /root/workspace/flutter_codespaces_template/.flutter
+[8:12:55 PM] [General] [Info]         /root/workspace/flutter_codespaces_template/.flutter/bin
+[8:12:55 PM] [General] [Info]         /root/workspace/flutter_codespaces_template/vendor/flutter
+[8:12:55 PM] [General] [Info]         /root/workspace/flutter_codespaces_template/vendor/flutter/bin
+[8:12:55 PM] [General] [Info]         /sdks/flutter
+[8:12:55 PM] [General] [Info]         /sdks/flutter/bin
+[8:12:55 PM] [General] [Info]         /root/.vscode-remote/bin/d1f267742169584db010716d92addf50d4cd8139/bin
+[8:12:55 PM] [General] [Info]         /root/.vscode-remote/bin/d1f267742169584db010716d92addf50d4cd8139/bin
+[8:12:55 PM] [General] [Info]         /usr/local/sbin
+[8:12:55 PM] [General] [Info]         /usr/local/bin
+[8:12:55 PM] [General] [Info]         /usr/sbin
+[8:12:55 PM] [General] [Info]         /usr/bin
+[8:12:55 PM] [General] [Info]         /sbin
+[8:12:55 PM] [General] [Info]         /bin
+[8:12:55 PM] [General] [Info]         /opt/android-sdk-linux/cmdline-tools/tools/bin
+[8:12:55 PM] [General] [Info]         /opt/android-sdk-linux/platform-tools
+[8:12:55 PM] [General] [Info]         /opt/android-sdk-linux/platform-tools/bin
+[8:12:55 PM] [General] [Info]         /opt/android-sdk-linux/emulator
+[8:12:55 PM] [General] [Info]         /opt/android-sdk-linux/emulator/bin
+[8:12:55 PM] [General] [Info]         /sdks/flutter/bin
+[8:12:55 PM] [General] [Info]         /sdks/flutter/bin/cache/dart-sdk/bin
+[8:12:55 PM] [General] [Info]         /usr/local/share/pub-cache/bin
+[8:12:55 PM] [General] [Info]     Found at:
+[8:12:55 PM] [General] [Info]         /sdks/flutter/bin/
+[8:12:55 PM] [General] [Info]         /sdks/flutter/bin
+[8:12:55 PM] [General] [Info]         /sdks/flutter/bin
+[8:12:55 PM] [General] [Info]     Candidate paths to be post-filtered:
+[8:12:55 PM] [General] [Info]         /sdks/flutter
+[8:12:55 PM] [General] [Info]         /sdks/flutter
+[8:12:55 PM] [General] [Info]         /sdks/flutter
+[8:12:55 PM] [General] [Info]     Found at /sdks/flutter
+[8:12:55 PM] [General] [Info]     Returning SDK path /sdks/flutter for flutter
+[8:12:55 PM] [General] [Info] Searching for dart
+[8:12:55 PM] [General] [Info]     Looking for dart in:
+[8:12:55 PM] [General] [Info]         /sdks/flutter/bin/cache/dart-sdk
+[8:12:55 PM] [General] [Info]         /sdks/flutter/bin/cache/dart-sdk/bin
+[8:12:55 PM] [General] [Info]         /root/.vscode-remote/bin/d1f267742169584db010716d92addf50d4cd8139/bin
+[8:12:55 PM] [General] [Info]         /root/.vscode-remote/bin/d1f267742169584db010716d92addf50d4cd8139/bin
+[8:12:55 PM] [General] [Info]         /usr/local/sbin
+[8:12:55 PM] [General] [Info]         /usr/local/bin
+[8:12:55 PM] [General] [Info]         /usr/sbin
+[8:12:55 PM] [General] [Info]         /usr/bin
+[8:12:55 PM] [General] [Info]         /sbin
+[8:12:55 PM] [General] [Info]         /bin
+[8:12:55 PM] [General] [Info]         /opt/android-sdk-linux/cmdline-tools/tools/bin
+[8:12:55 PM] [General] [Info]         /opt/android-sdk-linux/platform-tools
+[8:12:55 PM] [General] [Info]         /opt/android-sdk-linux/platform-tools/bin
+[8:12:55 PM] [General] [Info]         /opt/android-sdk-linux/emulator
+[8:12:55 PM] [General] [Info]         /opt/android-sdk-linux/emulator/bin
+[8:12:55 PM] [General] [Info]         /sdks/flutter/bin
+[8:12:55 PM] [General] [Info]         /sdks/flutter/bin/cache/dart-sdk/bin
+[8:12:55 PM] [General] [Info]         /usr/local/share/pub-cache/bin
+[8:12:55 PM] [General] [Info]         /sdks/flutter/bin/cache/dart-sdk
+[8:12:55 PM] [General] [Info]         /sdks/flutter/bin/cache/dart-sdk/bin
+[8:12:55 PM] [General] [Info]     Found at:
+[8:12:55 PM] [General] [Info]         /sdks/flutter/bin/cache/dart-sdk/bin
+[8:12:55 PM] [General] [Info]         /sdks/flutter/bin
+[8:12:55 PM] [General] [Info]         /sdks/flutter/bin/cache/dart-sdk/bin
+[8:12:55 PM] [General] [Info]         /sdks/flutter/bin/cache/dart-sdk/bin
+[8:12:55 PM] [General] [Info]     Candidate paths to be post-filtered:
+[8:12:55 PM] [General] [Info]         /sdks/flutter/bin/cache/dart-sdk
+[8:12:55 PM] [General] [Info]         /sdks/flutter
+[8:12:55 PM] [General] [Info]         /sdks/flutter/bin/cache/dart-sdk
+[8:12:55 PM] [General] [Info]         /sdks/flutter/bin/cache/dart-sdk
+[8:12:55 PM] [General] [Info]     Found at /sdks/flutter/bin/cache/dart-sdk
+[8:12:55 PM] [General] [Info]     Returning SDK path /sdks/flutter/bin/cache/dart-sdk for dart
+[8:12:55 PM] [General] [Info] !! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.14.1
+Flutter extension: 3.14.1 (not activated)
+
+App: Visual Studio Code - Insiders
+Remote: vsonline
+Version: 1.50.0-insider
+Platform: linux
+
+Workspace type: Flutter
+Analyzer type: DAS
+Multi-root?: false
+
+Dart SDK:
+    Loc: /sdks/flutter/bin/cache/dart-sdk
+    Ver: 2.10.0-142.0.dev
+Flutter SDK:
+    Loc: /sdks/flutter
+    Ver: 1.22.0-10.0.pre.291
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+[8:12:56 PM] [General] [Info] Activating Flutter extension for Flutter project...
+[8:12:56 PM] [General] [Info] Extension:Startup timing: 718ms
+[8:12:56 PM] [General] [Info] !! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.14.1
+Flutter extension: 3.14.1 (activated)
+
+App: Visual Studio Code - Insiders
+Remote: vsonline
+Version: 1.50.0-insider
+Platform: linux
+
+Workspace type: Flutter
+Analyzer type: DAS
+Multi-root?: false
+
+Dart SDK:
+    Loc: /sdks/flutter/bin/cache/dart-sdk
+    Ver: 2.10.0-142.0.dev
+Flutter SDK:
+    Loc: /sdks/flutter
+    Ver: 1.22.0-10.0.pre.291
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+[8:12:57 PM] [General] [Info] Analyzer:Startup timing: 1983ms
+[8:12:58 PM] [General] [Info] Found 0 folders requiring "pub get":
+[8:13:03 PM] [General] [Info] Checking 1 projects for supported platforms
+[8:13:03 PM] [General] [Info] Supported platforms for the workspace are web
+[8:13:07 PM] [General] [Info] Analyzer:FirstAnalysis timing: 6733ms
