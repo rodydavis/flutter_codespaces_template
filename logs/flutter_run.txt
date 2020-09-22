@@ -1,0 +1,14 @@
+[7:50:51 PM]: Spawning /sdks/flutter/bin/flutter with args ["run","--machine","--target","lib/main.dart","-d","web-server","--track-widget-creation","--dart-define=flutter.inspector.structuredErrors=true","--start-paused","--web-server-debug-protocol","ws","--web-server-debug-backend-protocol","ws","--web-allow-expose-url","--web-hostname","any"]
+[7:50:51 PM]: ..  in /root/workspace/flutter_codespaces_template
+[7:50:51 PM]: ..  with {"toolEnv":{"FLUTTER_HOST":"VSCode","PUB_ENVIRONMENT":"vscode.dart-code"}}
+[7:50:51 PM]: PID: 5242
+[7:50:52 PM]: <== [{"event":"daemon.connected","params":{"version":"0.6.0","pid":5273}}]
+[7:50:52 PM]: <== [{"event":"app.start","params":{"appId":"5ad394f5-7e5d-4a72-8409-3c34a6726015","deviceId":"web-server","directory":"/root/workspace/flutter_codespaces_template","supportsRestart":true,"launchMode":"run"}}]
+[7:50:52 PM]: <== Launching lib/main.dart on Web Server in debug mode...
+[7:50:52 PM]: <== [{"method":"app.exposeUrl","params":{"url":"ws://[::]:46165/$debug"},"id":"1"}]
+[7:50:53 PM]: ==> [{"id":"1","result":{"url":"ws://[::]:46165/$debug"}}]
+[7:50:53 PM]: <== [{"event":"app.progress","params":{"appId":"5ad394f5-7e5d-4a72-8409-3c34a6726015","id":"0","progressId":null,"message":"Syncing files to device Web Server...","finished":false}}]
+[7:51:13 PM]: <== [{"event":"app.progress","params":{"appId":"5ad394f5-7e5d-4a72-8409-3c34a6726015","id":"0","progressId":null,"finished":true}}]
+[7:51:13 PM]: <== Waiting for connection from Dart debug extension at http://localhost:38763
+[7:51:13 PM]: <== The web-server device requires the Dart Debug Chrome extension for debugging. Consider using the Chrome or Edge devices for an improved development workflow.
+[7:51:13 PM]: <== [{"event":"app.webLaunchUrl","params":{"url":"http://localhost:38763","launched":false}}]

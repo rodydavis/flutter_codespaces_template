@@ -7,3 +7,5 @@ A new Flutter project.
 ```
 flutter run -d web-server
 ```
+
+https://chrome.google.com/webstore/detail/dart-debug-extension/eljbmlghnomdjgdjmbdekegdkbabckhm/related?hl=en
