@@ -7,6 +7,10 @@
 			"request": "launch",
 			"type": "dart",
 			"args": ["-d", "chrome", "--web-port", "3000"]
+		},
+		{
+			"name": "Flutter (Web)",
+		  	"preLaunchTask": "runWeb"
 		}
 	]
 }
